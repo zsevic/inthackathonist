@@ -1,0 +1,6 @@
+title: IntHackathonist
+description: List of upcoming international hackathons with travel reimbursements
+repository: inthackathonist/zsevic
+theme: jekyll-theme-hacker
+plugins:
+  - jemoji
